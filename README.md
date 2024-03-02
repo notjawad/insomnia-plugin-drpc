@@ -2,7 +2,7 @@
 
 This is a plugin for [Insomnia](https://insomnia.rest/) that enables Discord Rich Presence. It shows your current activity in Insomnia on your Discord status.
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](https://github.com/notjawad/insomnia-plugin-drpc/blob/main/assets/screenshot.png)
 
 ## Features
 
