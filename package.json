@@ -1,0 +1,17 @@
+{
+    "name": "insomnia-plugin-discord-rpc",
+    "version": "0.0.1",
+    "private": true,
+    "insomnia": {
+        "name": "discord-rpc",
+        "description": "Discord Rich Presence for Insomnia",
+        "publisher": {
+            "name": "notjawad",
+            "icon": "https://avatars.githubusercontent.com/u/62211551?v=4"
+        }
+    },
+    "main": "main.js",
+    "dependencies": {
+        "discord-rpc": "^4.0.1"
+    }
+}
