@@ -1,8 +1,9 @@
+
 # Discord RPC for Insomnia
 
 This is a plugin for [Insomnia](https://insomnia.rest/) that enables Discord Rich Presence. It shows your current activity in Insomnia on your Discord status.
 
-![Screenshot](https://github.com/notjawad/insomnia-plugin-drpc/blob/main/assets/screenshot.png)
+![Screenshot](./assets/screenshot.png)
 
 ## Features
 
@@ -11,10 +12,11 @@ This is a plugin for [Insomnia](https://insomnia.rest/) that enables Discord Ric
 
 ## Installation
 
-1. Clone this repository.
-2. Open Insomnia.
-3. Go to Application > Preferences > Plugins.
-4. Click on "Install Plugin" and select the cloned repository.
+1. Open Insomnia.
+2. `Preferences` > `Plugins` > `Reveal Plugins Folder`
+3. Open a terminal in your plugins folder
+4. Clone the repo `git clone git@github.com:notjawad/insomnia-plugin-drpc.git`
+5. Click `Reload Plugins`
 
 ## Usage
 
