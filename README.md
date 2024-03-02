@@ -2,6 +2,8 @@
 
 This is a plugin for [Insomnia](https://insomnia.rest/) that enables Discord Rich Presence. It shows your current activity in Insomnia on your Discord status.
 
+![Screenshot](./assets/screenshot.png)
+
 ## Features
 
 -   Shows the current request method and endpoint in your Discord status.
@@ -20,17 +22,4 @@ Once the plugin is installed, it will automatically update your Discord status w
 
 ## Dependencies
 
--   [discord-rpc](https://www.npmjs.com/package/discord-rpc)
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-If you have any questions or issues, please open an issue on this repository.
-
-## Acknowledgements
-
--   [Insomnia](https://insomnia.rest/)
 -   [discord-rpc](https://www.npmjs.com/package/discord-rpc)
