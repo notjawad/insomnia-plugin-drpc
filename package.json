@@ -1,16 +1,35 @@
 {
-    "name": "insomnia-plugin-discord-rpc",
-    "version": "0.0.1",
-    "private": true,
+    "name": "insomnia-plugin-drpc",
+    "version": "1.0.1",
+    "description": "Discord Rich Presence for Insomnia",
+    "homepage": "https://github.com/notjawad/insomnia-plugin-drpc",
+    "repository": "https://github.com/notjawad/insomnia-plugin-drpc.git",
+    "main": "main.js",
     "insomnia": {
-        "name": "discord-rpc",
+        "name": "drpc",
         "description": "Discord Rich Presence for Insomnia",
         "publisher": {
             "name": "notjawad",
             "icon": "https://avatars.githubusercontent.com/u/62211551?v=4"
+        },
+        "images": {
+            "icon": "./assets/logo.png",
+            "cover": "./assets/screenshot.png"
         }
     },
-    "main": "main.js",
+    "keywords": [
+        "insomnia",
+        "plugin",
+        "discord",
+        "rpc",
+        "rich",
+        "presence"
+    ],
+    "bugs": {
+        "url": "https://github.com/notjawad/insomnia-plugin-drpc/issues"
+    },
+    "author": "notjawad",
+    "license": "MIT",
     "dependencies": {
         "discord-rpc": "^4.0.1"
     }
